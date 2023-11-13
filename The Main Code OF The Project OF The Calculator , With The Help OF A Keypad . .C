@@ -46,7 +46,7 @@ Serial.begin (9600);                                                            
 void loop () {
 
 
-int TheButton = int (CustomKeypad.getKey () )-48;
+int TheButton = int (CustomKeypad.getKey () ) -48;
 
 
 if (0 <= TheButton && TheButton <= 10) {
