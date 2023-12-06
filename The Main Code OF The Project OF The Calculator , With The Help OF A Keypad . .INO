@@ -1,8 +1,8 @@
 // The Project OF The Calculator , With The Help OF A Keypad .
 
-// The Main Code OF The Project OF The Calculator , With The Help OF A Keypad . .C
-
 // In this program, We want to Show, How The Calculator, is Built with The Help of a Keypad .
+
+// The Main Code OF The Project OF The Calculator , With The Help OF A Keypad . .INO .
 
 
 
